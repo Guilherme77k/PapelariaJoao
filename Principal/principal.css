@@ -32,3 +32,37 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
     justify-content: center;
 
 }
+
+.itens {
+    display: flex;
+    gap: 2.5rem;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.card img {
+    width: 100%;
+    height: 50%;
+}
+
+.title-form {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.formulario {
+    display: flex;
+}
+
+.div-form-title {
+    
+}
+
+.form-nome,
+.form-email,
+.form-telefone,
+.form-obs,
+.form-info {
+    
+}
