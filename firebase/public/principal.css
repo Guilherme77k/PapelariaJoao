@@ -24,12 +24,12 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
 }
 
 .d-flex {
-    width: 80%;
-    display: flex;
+    width: 100%;
     text-align: center;
-    margin: 3rem 5rem 2rem 10rem;
     align-items: center;
     justify-content: center;
+    margin-top: 2rem;
+    margin-bottom:2rem;
 
 }
 
@@ -80,8 +80,6 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
     justify-content: center;
     gap: 3rem;
     width: 100%;
-    margin-left: 7rem;
-    margin-right: 10rem;
 }
 
 .div-form-title {
@@ -105,7 +103,7 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
 
 .mapBox {
     position: relative;
-    width: 50%;
+    width: 1000px;
     height: 350px;
     background: #fff;
 }
