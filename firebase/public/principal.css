@@ -82,10 +82,6 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
     width: 100%;
 }
 
-.div-form-title {
-    
-}
-
 .form-nome,
 .form-email,
 .form-telefone,
@@ -117,4 +113,8 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
 .label-img-insta {
     list-style-type: none;
     text-decoration: none;
+}
+
+.button-enviar-form {
+    margin-bottom: 0.4rem;
 }
