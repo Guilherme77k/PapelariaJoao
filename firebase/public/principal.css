@@ -118,3 +118,14 @@ background: radial-gradient(circle, rgba(248,255,255,1) 0%, rgba(223,231,240,1) 
 .button-enviar-form {
     margin-bottom: 0.4rem;
 }
+
+.div-form-info {
+    margin-bottom: 1rem;
+}
+
+.insta-wpp {
+    list-style-type: none;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}

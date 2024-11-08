@@ -7,8 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "firebase": "^10.14.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
